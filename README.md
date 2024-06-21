@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ericizepic
-- 👀 I’m interested in ML, SWE, design
-- 👀 I’m currently learning some stuff
+- 👀 I’m interested in ML, SWE, design and algorithms
+- 👀 I’m currently learning about reinforcment learning
 
